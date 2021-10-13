@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects mainly focussed on studying data and drawing insighful inferences from it.
 - 📫 You can reach out to me at quantumehul@gmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulphy&theme=dracula" />
 
 
 <!---
